@@ -8,5 +8,6 @@ Esta visualización se realiza con propósitos académicos en el marco del desar
 
 Autor: Leandro Pájaro Fuentes
 
+Link de acceso a la visualización https://app.powerbi.com/view?r=eyJrIjoiZjc1MTJhMjMtMzdiOS00Y2ExLWFkZjgtNTgxNjA1NmMzZjMwIiwidCI6IjI5OWEyODgxLTEzODAtNDAyMC1iNDJmLTcxNWEzNWUxYmNhZiIsImMiOjR9&pageName=ReportSection
 Link de acceso a la grabación de la presentación https://drive.google.com/file/d/1_scbNAEHFDnKR_1wAxMaHb6wIxija_1Z/view?usp=sharing
 Link de acceso a conjunto de datos https://drive.google.com/file/d/1_tWyZ6-OGNSrG2e__Ew1er2zmeWECHhg/view?usp=sharing
