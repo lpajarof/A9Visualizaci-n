@@ -7,3 +7,6 @@ La presente visualización tiene como objetivo realizar un análisis de los deli
 Esta visualización se realiza con propósitos académicos en el marco del desarrollo de la asignatura Visualización de Datos del Master en Ciencia de Datos de la UOC.
 
 Autor: Leandro Pájaro Fuentes
+
+Link de acceso a la grabación de la presentación https://drive.google.com/file/d/1_scbNAEHFDnKR_1wAxMaHb6wIxija_1Z/view?usp=sharing
+Link de acceso a conjunto de datos https://drive.google.com/file/d/1_tWyZ6-OGNSrG2e__Ew1er2zmeWECHhg/view?usp=sharing
